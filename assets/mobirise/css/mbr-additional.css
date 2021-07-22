@@ -774,7 +774,7 @@ a {
 }
 .cid-sBbHPLYWGq .dropdown-menu,
 .cid-sBbHPLYWGq .navbar.opened {
-  background: #f9f9f9 !important;
+  background: #ffffff !important;
 }
 .cid-sBbHPLYWGq .nav-item:focus,
 .cid-sBbHPLYWGq .nav-link:focus {
@@ -809,7 +809,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #f9f9f9;
+  background: #ffffff;
 }
 .cid-sBbHPLYWGq .navbar.opened {
   transition: all 0.3s;
@@ -954,7 +954,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sBbHPLYWGq .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #f9f9f9;
+  background: #ffffff;
 }
 .cid-sBbHPLYWGq .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -985,7 +985,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #e43f3f;
+  background-color: #ff2500;
 }
 .cid-sBbHPLYWGq button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1065,10 +1065,10 @@ a {
 .cid-sBd1pW2zh7 {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #f6f6f6;
 }
 .cid-sBd1pW2zh7 .content-wrapper {
-  background: #fafafa;
+  background: #f6f6f6;
 }
 @media (max-width: 991px) {
   .cid-sBd1pW2zh7 .content-wrapper .row {
@@ -1106,10 +1106,10 @@ a {
 .cid-sBd1qRUoaM {
   padding-top: 6rem;
   padding-bottom: 3rem;
-  background-color: #ffffff;
+  background-color: #f6f6f6;
 }
 .cid-sBd1qRUoaM .content-wrapper {
-  background: #fafafa;
+  background: #f6f6f6;
 }
 @media (max-width: 991px) {
   .cid-sBd1qRUoaM .content-wrapper .image-wrapper {
@@ -1144,10 +1144,10 @@ a {
 .cid-sBd1u0UTxY {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #f6f6f6;
 }
 .cid-sBd1u0UTxY .content-wrapper {
-  background: #fafafa;
+  background: #f6f6f6;
 }
 @media (max-width: 991px) {
   .cid-sBd1u0UTxY .content-wrapper .row {
@@ -1181,6 +1181,27 @@ a {
 }
 .cid-sBd1u0UTxY .card-title {
   color: #ff6666;
+}
+.cid-sDJVKgM3we {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  background-color: #f9f9f9;
+}
+.cid-sDJVKgM3we img {
+  width: 120px;
+  margin: auto;
+}
+.cid-sDJVKgM3we .card {
+  transition: all 0.3s;
+  height: fit-content;
+  padding: 1rem 0;
+  opacity: 0.7;
+  margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-sDJVKgM3we .card {
+    max-width: 12.5%;
+  }
 }
 .cid-sBd1ZX1INK {
   padding-top: 3rem;
@@ -1286,7 +1307,7 @@ a {
 }
 .cid-sBjoY0JQrE .dropdown-menu,
 .cid-sBjoY0JQrE .navbar.opened {
-  background: #f9f9f9 !important;
+  background: #ffffff !important;
 }
 .cid-sBjoY0JQrE .nav-item:focus,
 .cid-sBjoY0JQrE .nav-link:focus {
@@ -1321,7 +1342,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #f9f9f9;
+  background: #ffffff;
 }
 .cid-sBjoY0JQrE .navbar.opened {
   transition: all 0.3s;
@@ -1466,7 +1487,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sBjoY0JQrE .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #f9f9f9;
+  background: #ffffff;
 }
 .cid-sBjoY0JQrE .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1497,7 +1518,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #e43f3f;
+  background-color: #ff2500;
 }
 .cid-sBjoY0JQrE button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1660,7 +1681,7 @@ a {
 }
 .cid-sBbHPLYWGq .dropdown-menu,
 .cid-sBbHPLYWGq .navbar.opened {
-  background: #f9f9f9 !important;
+  background: #ffffff !important;
 }
 .cid-sBbHPLYWGq .nav-item:focus,
 .cid-sBbHPLYWGq .nav-link:focus {
@@ -1695,7 +1716,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #f9f9f9;
+  background: #ffffff;
 }
 .cid-sBbHPLYWGq .navbar.opened {
   transition: all 0.3s;
@@ -1840,7 +1861,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sBbHPLYWGq .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #f9f9f9;
+  background: #ffffff;
 }
 .cid-sBbHPLYWGq .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1871,7 +1892,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #e43f3f;
+  background-color: #ff2500;
 }
 .cid-sBbHPLYWGq button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
